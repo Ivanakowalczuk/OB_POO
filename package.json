@@ -1,0 +1,13 @@
+{
+  "name": "ob_poo",
+  "version": "1.0.0",
+  "description": "PROGRAMACIÓN ORIENTADA A OBJETOS CON JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["POO"],
+  "author": "Ivana Kowalczuk",
+  "license": "ISC"
+}
